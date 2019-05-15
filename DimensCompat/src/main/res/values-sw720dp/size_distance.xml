@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- current base width is 750 -->
 <resources>
+<dimen name="x1">0.96dp</dimen>
 <dimen name="x2">1.92dp</dimen>
 <dimen name="x3">2.88dp</dimen>
 <dimen name="x4">3.84dp</dimen>
